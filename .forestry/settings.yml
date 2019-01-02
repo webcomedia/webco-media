@@ -40,4 +40,5 @@ front_matter_path: ''
 use_front_matter_path: false
 file_template: ":year:/:month:/:day:/:filename:"
 build:
+  publish_command: publish_command
   output_directory: webco-media.ro
